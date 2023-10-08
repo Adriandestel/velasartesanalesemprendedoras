@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+velas-artesanales-emprendedoras9.webnode.es	TRUE	/	FALSE	1999999999	PHPSESSID	39b8e67ea86dd38e94b1a62b7099d4a1
+
